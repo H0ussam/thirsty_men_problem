@@ -1,0 +1,30 @@
+Introduction:
+
+We are facing a conflict of interest, as only two out of N guests will be able to benefit from the limited supply of water. Certain guidelines have been established to prevent the competition for the water from escalating to a dangerous level. However, we are not sure if all guests will follow these rules and we cannot simply hope for the best and leave others to the mercy of malicious parties. Therefore, in the following section, I will explain a solution or game that all guests must play in order to reach common ground and compromise. In order to reach a compromise, it will be necessary for some guests to sacrifice their opportunity to drink the water, allowing only two guests to benefit.
+
+Simple version:
+
+The guests will play a game of elimination consisting of multiple rounds. In each round, all guests have an equal probability of being eliminated (1/N, where N is the number of guests or players). This is fair for everyone participating in the game. As the game progresses and guests are eliminated, the probability of being eliminated increases.
+
+The game is simple to play and has few rules, as well as an anti-cheat mechanism. Each player must write their name on a piece of paper (all papers are the same size and from the same source). After writing their names, they must fold the paper and put it in a black box or any other container that prevents visibility from the outside. Each round begins by shaking the box and pulling out one single piece of paper. The guest whose name is on that piece of paper is eliminated and must place their cup in one of the empty middle spots.
+
+Rules:
+
+1. The box is filled in front of everyone, and guests/players can go up to the box and drop their paper. Everyone can see and verify the process, and also spot any attempts at cheating.
+
+2.If a guest is caught cheating in any way, they can be voted out by the other players. Once voted out, they are not allowed to rejoin the game.
+
+3.If a guest is voted out due to cheating, the entire game is cancelled and everyone must start from the beginning. Those who were eliminated in a legitimate way must also rejoin. This provides an incentive for everyone to play fairly and not cheat.
+
+4.After every round, the box is emptied by the players and checked for any attempts at cheating (e.g., someone removing another player's paper or adding their own paper). If cheating is detected, the game returns to rule number 2. If the cheater cannot be identified, the game is simply restarted.
+
+This simple version provides a framework for equal opportunity and an anti-cheat mechanism that works against individual cheaters. It only fails if at least 51% of the players are malicious (i.e., half of the players plus one). However, it is not in the interest of the players to be malicious because, in the end, only two cups of water will be available.
+The number of rounds in this version cannot exceed N-2.
+
+Advanced Version:
+
+In this modified version of the game, instead of being eliminated immediately upon being selected in a single round, a player must now be selected three times before being eliminated. The guests will maintain a public ledger where they record how many times each player has been selected.
+
+This modification adds another layer of randomness to the game and makes it even more reliable. It also allows for more rounds to be played, as players are not eliminated as quickly as in the simple version.
+
+I hope you all like it, thank you for reading :)
